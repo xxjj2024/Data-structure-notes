@@ -1,0 +1,16 @@
+# Build artifacts
+源码/**/build/
+源码/**/Debug/
+源码/**/Release/
+
+# VS / VC6 junk
+.vs/
+.vscode/
+*.ncb
+*.opt
+*.plg
+*.suo
+*.ipch
+*.vsidx
+*.db
+*.slnx.sqlite
